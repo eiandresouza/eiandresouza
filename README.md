@@ -85,9 +85,7 @@ Sinta-se à vontade para explorar os diversos projetos arquivados aqui. Cada pas
 Eu adoraria me conectar com colegas iniciantes, mentores ou qualquer pessoa disposta a compartilhar suas experiências. Você pode entrar em contato comigo através de:
 
 <details><summary>Redes sociais:</summary> 
-
-- Email: contatoandrevieirasouza@gmail.com
-
+  
 - Redes sociais:
 
 <div> 
