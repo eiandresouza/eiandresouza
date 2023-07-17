@@ -6,7 +6,7 @@
 ## Sobre mim:
 Olá! Meu nome é André Souza, e sou uma pessoa determinada e motivada, com 21 anos de idade e uma deficiência física. Estou empolgado em compartilhar um pouco sobre mim e minhas aspirações. Ao longo da minha vida, enfrentei alguns desafios como alguém com uma deficiência física. No entanto, sempre demonstrei resiliência e uma forte determinação para superar obstáculos. Minha deficiência proporcionou uma perspectiva única sobre a vida e me motivou a buscar novas oportunidades de crescimento.  
 
-<details><summary>Continua</summary>
+<details><summary>Ler mais</summary>
   
 Recentemente, decidi me aventurar no mundo da programação. Sempre fui fascinado pela maneira como a tecnologia pode transformar vidas e criar soluções inovadoras. Acredito que a programação me permitirá explorar meu potencial criativo e contribuir para o desenvolvimento de projetos incríveis.
 
@@ -78,9 +78,9 @@ Sinta-se à vontade para explorar os diversos projetos arquivados aqui. Cada pas
 
 Eu adoraria me conectar com colegas iniciantes, mentores ou qualquer pessoa disposta a compartilhar suas experiências. Você pode entrar em contato comigo através de:
 
-<details><summary>Redes sociais:</summary> 
+
   
-- Redes sociais:
+
 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -91,8 +91,6 @@ Eu adoraria me conectar com colegas iniciantes, mentores ou qualquer pessoa disp
   <a href="https://www.twitch.tv/eiandresouza" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
   <a href="mailto:contatoandrevieirasouza@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-</details>
 
 ![Obrigado](https://github.com/eiandresouza/eiandresouza/assets/132021448/c1fb59b9-7d02-4f91-aafc-9771df18fd7a)
 
