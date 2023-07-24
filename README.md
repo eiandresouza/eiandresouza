@@ -67,7 +67,7 @@ Sinta-se à vontade para explorar os diversos projetos arquivados aqui. Cada pas
 - A pasta "Framework" em desenvolvimento exclusivamente projetada para o FiveM. Essa Framework revolucionária visa fornecer aos desenvolvedores do FiveM uma base sólida para criar recursos e modificações avançadas para servidores do FiveM. Com uma arquitetura flexível e extensível, nossa Framework visa simplificar e agilizar o processo de desenvolvimento, permitindo que os criadores concentrem-se na implementação de ideias criativas e inovadoras. Ao utilizar nossa Framework, você terá acesso a uma ampla gama de ferramentas e recursos poderosos, possibilitando a criação de experiências únicas e envolventes no FiveM. Fique atento para atualizações e novidades sobre nosso projeto em constante evolução.
 
 * <a href="https://github.com/eiandresouza/Framework">
-  <img align="center" height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=eiandresouza&&PAT_1repo=Framework&border_color=1B1B1B&bg_color=1B1B1B&text_color=505156&title_color=FFFFFF" />
+  <img align="center" height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=eiandresouza&PAT_1&repo=Framework&border_color=1B1B1B&bg_color=1B1B1B&text_color=505156&title_color=FFFFFF" />
   </a>
   
 ![Obrigado](https://github.com/eiandresouza/eiandresouza/assets/132021448/c1fb59b9-7d02-4f91-aafc-9771df18fd7a)
