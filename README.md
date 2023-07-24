@@ -54,7 +54,7 @@ Sinta-se à vontade para explorar os diversos projetos arquivados aqui. Cada pas
 
 <details><summary>Documentos:</summary> 
   
-![Documentos](https://github.com/eiandresouza/eiandresouza/assets/132021448/e44cb25b-ff2e-4912-9684-c9dc90e923ed)
+![Documentos](https://github.com/eiandresouza/eiandresouza/assets/132021448/e44cb25b-ff2e-4912-9684-c9dc90e923ed&PAT_1)
 
 - A pasta "Documentos" contém uma ampla variedade de trabalhos relacionados ao FiveM. Esses documentos abrangem tópicos como tutoriais, guias, scripts, mods e recursos para aprimorar a experiência de jogo no FiveM. Os trabalhos presentes nessa pasta são uma fonte valiosa de informações e conhecimento para os entusiastas do FiveM, desde iniciantes até desenvolvedores experientes. Navegar pelos documentos disponíveis permitirá explorar diferentes aspectos e possibilidades oferecidos pela plataforma FiveM.
   
@@ -77,10 +77,6 @@ Sinta-se à vontade para explorar os diversos projetos arquivados aqui. Cada pas
 ## Contate-me
 
 Eu adoraria me conectar com colegas iniciantes, mentores ou qualquer pessoa disposta a compartilhar suas experiências. Você pode entrar em contato comigo através de:
-
-
-  
-
 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
