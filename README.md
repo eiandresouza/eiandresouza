@@ -45,8 +45,8 @@ Resumindo, sou o André Souza, um jovem de 21 anos com deficiência física, mas
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <div>
-  <img height="146em" src="https://github-readme-stats.vercel.app/api?username=eiandresouza&show_icons=true&border_color=1B1B1B&bg_color=1B1B1B&&text_color=505156&title_color=FFFFFF&icon_color=FFFFFF" /> 
-  <img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiandresouza&layout=compact&border_color=1B1B1B&bg_color=1B1B1B&text_color=505156&title_color=FFFFFF" />
+  <img height="146em" src="https://github-readme-stats.vercel.app/api?username=eiandresouza&show_icons=true&border_color=1B1B1B&bg_color=1B1B1B&&text_color=505156&title_color=FFFFFF&icon_color=FFFFFF&PAT_1" /> 
+  <img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiandresouza&layout=compact&border_color=1B1B1B&bg_color=1B1B1B&text_color=505156&title_color=FFFFFF&PAT_1" />
 </div> 
 
 ### Projetos
