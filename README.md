@@ -79,7 +79,7 @@ Sinta-se à vontade para explorar os diversos projetos arquivados aqui. Cada pas
 Eu adoraria me conectar com colegas iniciantes, mentores ou qualquer pessoa disposta a compartilhar suas experiências. Você pode entrar em contato comigo através de:
 
 <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/bkcy9sX9TA" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCYLxDq8ho7GNuWRIYg65IIQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eiandresouza" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/profile.php?id=100092470823900" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
